@@ -20,5 +20,10 @@ namespace Git_Ex1
         {
             MessageBox.Show("Saludos desde ¡Hola Mundo!");
         }
+
+        private void prueva_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("pirmer commit remoto");
+        }
     }
 }
